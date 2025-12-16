@@ -64,3 +64,17 @@ Possibly rebuild the project using a game engine when hardware allows
 Gilmorex
 High school student (10th grade)
 Interested in software development, game design, and computer science.
+
+## ▶️ Running the Game (ZIP Download)
+
+1. Download the ZIP file from GitHub Releases or Code → Download ZIP
+2. Extract the ZIP file
+3. Open the extracted folder
+
+### Windows
+```bash
+python Main.py
+
+Linux / macOS
+
+python3 Main.py
